@@ -1,0 +1,18 @@
+NOTICE
+
+This folder is an unmodified copy of NVIDIA SkillSpector.
+Author: NVIDIA
+Upstream: https://github.com/NVIDIA/SkillSpector
+Commit: f9bb13dd1667eb4e7ac97b8ebace3160041ed571
+License: Apache-2.0. The license text is the LICENSE file in this folder and was not changed. Third-party notices shipped by NVIDIA are in THIRD_PARTY_NOTICES.md.
+
+Este diretorio e uma copia sem modificacao do NVIDIA SkillSpector.
+Autor: NVIDIA
+Origem: https://github.com/NVIDIA/SkillSpector
+Commit: f9bb13dd1667eb4e7ac97b8ebace3160041ed571
+Licenca: Apache-2.0. O texto da licenca e o arquivo LICENSE desta pasta e nao foi alterado. Avisos de terceiros publicados pela NVIDIA estao em THIRD_PARTY_NOTICES.md.
+
+The lines in this NOTICE were written for the skills-seguranca-ia collection by Filippe Revigat. They are not part of the upstream project. Our added text is under the MIT license at the root of this collection. Every other file in this folder keeps the upstream license.
+
+Test fixtures under tests/fixtures include sample skills made to exercise the scanner, including harmful examples. They are not skills to install.
+As amostras em tests/fixtures existem para testar o scanner, inclusive exemplos nocivos. Nao instale essas pastas como skill.

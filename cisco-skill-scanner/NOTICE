@@ -1,0 +1,22 @@
+NOTICE
+
+This folder is an unmodified copy of the Cisco AI Defense skill scanner.
+Author: Cisco Systems, Inc. and its affiliates
+Upstream: https://github.com/cisco-ai-defense/skill-scanner
+Commit: c558c421157c546ec417cf23778ce81a3a8f35fd
+License file: LICENSE in this folder, copied byte for byte. GitHub reports the SPDX id as NOASSERTION. The file itself is a short Apache License 2.0 notice, copyright 2026 Cisco Systems, Inc. and its affiliates, and it points to http://www.apache.org/licenses/LICENSE-2.0. The wording was not changed.
+
+Este diretorio e uma copia sem modificacao do scanner de skills da Cisco AI Defense.
+Autor: Cisco Systems, Inc. e afiliadas
+Origem: https://github.com/cisco-ai-defense/skill-scanner
+Commit: c558c421157c546ec417cf23778ce81a3a8f35fd
+Arquivo de licenca: LICENSE nesta pasta, copiado sem alterar um byte. O GitHub informa o SPDX NOASSERTION. O arquivo em si e um aviso curto da Apache License 2.0, copyright 2026 Cisco Systems, Inc. and its affiliates, e aponta para http://www.apache.org/licenses/LICENSE-2.0.
+
+One substitution, and only this one, was made after the copy: a Stripe documentation example key that appeared in scanner policy fixtures and tests was replaced with the short placeholder `sk_test_example`. GitHub push protection rejects that example string. The license file was not changed. The unmodified files are at the upstream commit above.
+
+Uma substituicao, e so esta, foi feita depois da copia: uma chave de exemplo da documentacao da Stripe, presente em fixtures de politica e em testes do scanner, foi trocada pelo marcador curto `sk_test_example`. A protecao de push do GitHub recusa essa string de exemplo. O arquivo de licenca nao foi alterado. Os arquivos sem essa troca estao no commit de origem acima.
+
+The lines in this NOTICE were written for the skills-seguranca-ia collection by Filippe Revigat. They are not part of the upstream project. Our added text is under the MIT license at the root of this collection. Every other file in this folder keeps the upstream license, except the placeholder substitution described above.
+
+Folders such as evals/ and tests/ contain sample skills used to test the scanner, including harmful examples. Do not install those folders as skills.
+Pastas como evals/ e tests/ contem skills de teste do scanner, inclusive exemplos nocivos. Nao instale essas pastas como skill.

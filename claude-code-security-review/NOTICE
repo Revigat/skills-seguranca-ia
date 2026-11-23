@@ -1,0 +1,15 @@
+NOTICE
+
+This folder is an unmodified copy of Anthropic's Claude Code security review action.
+Author: Anthropic
+Upstream: https://github.com/anthropics/claude-code-security-review
+Commit: 0c6a49f1fa56a1d472575da86a94dbc1edb78eda
+License: MIT. The license text is the LICENSE file in this folder and was not changed.
+
+Este diretorio e uma copia sem modificacao da acao de revisao de seguranca do Claude Code, da Anthropic.
+Autor: Anthropic
+Origem: https://github.com/anthropics/claude-code-security-review
+Commit: 0c6a49f1fa56a1d472575da86a94dbc1edb78eda
+Licenca: MIT. O texto da licenca e o arquivo LICENSE desta pasta e nao foi alterado.
+
+The lines in this NOTICE were written for the skills-seguranca-ia collection by Filippe Revigat. They are not part of the upstream project. Our added text is under the MIT license at the root of this collection. Every other file in this folder keeps the upstream license.
