@@ -1,0 +1,19 @@
+NOTICE
+
+This folder is an unmodified copy of the Trail of Bits skills repository.
+Author: Trail of Bits
+Upstream: https://github.com/trailofbits/skills
+Commit: 149d7b21f4067765b82e67029730b42d228ef4b4
+License: CC-BY-SA-4.0. The license text is the LICENSE file in this folder and was not changed.
+
+Este diretorio e uma copia sem modificacao do repositorio de skills da Trail of Bits.
+Autor: Trail of Bits
+Origem: https://github.com/trailofbits/skills
+Commit: 149d7b21f4067765b82e67029730b42d228ef4b4
+Licenca: CC-BY-SA-4.0. O texto da licenca e o arquivo LICENSE desta pasta e nao foi alterado.
+
+One substitution, and only this one, was made after the copy: example Google API key strings in plugins/firebase-apk-scanner/skills/firebase-apk-scanner/references/vulnerabilities.md were replaced with `AIzaSyEXAMPLE`. GitHub push protection can reject a full-length AIza example. The license file was not changed. The unmodified file is at the upstream commit above.
+
+Uma substituicao, e so esta, foi feita depois da copia: strings de exemplo de chave de API do Google em plugins/firebase-apk-scanner/skills/firebase-apk-scanner/references/vulnerabilities.md foram trocadas por `AIzaSyEXAMPLE`. A protecao de push do GitHub pode recusar um exemplo AIza de tamanho completo. O arquivo de licenca nao foi alterado. O arquivo sem essa troca esta no commit de origem acima.
+
+The lines in this NOTICE were written for the skills-seguranca-ia collection by Filippe Revigat. They are not part of the upstream project. Our added text is under the MIT license at the root of this collection. Every other file in this folder keeps the upstream license, except the placeholder substitution described above.

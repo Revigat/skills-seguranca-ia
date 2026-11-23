@@ -1,0 +1,31 @@
+NOTICE
+
+This folder is a curated subset, not the full upstream repository.
+Author: Mahipal (GitHub: mukul975)
+Upstream: https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+Commit: 54a798831d2266a3ca61ce68a7acb80b81160d57
+License: Apache-2.0. The license text is the LICENSE file in this folder and was not changed.
+
+This project is not made by Anthropic. The upstream README says it is an independent community project and is not affiliated with Anthropic PBC.
+
+173 skills are included, from these subdomains: ai-security, application-security, compliance-governance, data-protection, devsecops, endpoint-security, governance-risk-compliance, incident-response, phishing-defense, privacy-compliance, ransomware-defense, social-engineering-defense, supply-chain-security, vulnerability-management, zero-trust, zero-trust-architecture.
+
+645 skills were not copied, so the download stays smaller. They remain at the upstream URL above, at the same commit. Excluded subdomains and counts: cloud-security (66), threat-hunting (58), threat-intelligence (52), network-security (43), web-application-security (42), digital-forensics (41), malware-analysis (39), identity-access-management (37), soc-operations (35), red-teaming (33), container-security (33), security-operations (28), ot-ics-security (28), api-security (28), penetration-testing (21), cryptography (16), mobile-security (13), threat-detection (7), deception-technology (6), hardware-firmware-security (4), blockchain-security (2), wireless-security (2), offensive-security (2), identity-and-access-management (2), red-team (2), identity-security (1), firmware-security (1), ot-security (1), firmware-analysis (1), purple-team (1).
+
+Some included skills still describe attack techniques (phishing simulation, exploit tooling, model red teaming). Authorized use only: systems you own or have written permission to test. Read SECURITY.md in this folder. It is the upstream file, unchanged.
+
+Este diretorio e um recorte, nao o repositorio inteiro.
+Autor: Mahipal (GitHub: mukul975)
+Origem: https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+Commit: 54a798831d2266a3ca61ce68a7acb80b81160d57
+Licenca: Apache-2.0. O texto da licenca e o arquivo LICENSE desta pasta e nao foi alterado.
+
+Este projeto nao foi feito pela Anthropic. O README original diz que e um projeto independente da comunidade e que nao tem vinculo com a Anthropic PBC.
+
+Entram 173 skills, dos subdominios: ai-security, application-security, compliance-governance, data-protection, devsecops, endpoint-security, governance-risk-compliance, incident-response, phishing-defense, privacy-compliance, ransomware-defense, social-engineering-defense, supply-chain-security, vulnerability-management, zero-trust, zero-trust-architecture.
+
+645 skills nao foram copiadas, para o download ficar menor. Elas continuam na URL de origem, no mesmo commit. Subdominios de fora, com a contagem: cloud-security (66), threat-hunting (58), threat-intelligence (52), network-security (43), web-application-security (42), digital-forensics (41), malware-analysis (39), identity-access-management (37), soc-operations (35), red-teaming (33), container-security (33), security-operations (28), ot-ics-security (28), api-security (28), penetration-testing (21), cryptography (16), mobile-security (13), threat-detection (7), deception-technology (6), hardware-firmware-security (4), blockchain-security (2), wireless-security (2), offensive-security (2), identity-and-access-management (2), red-team (2), identity-security (1), firmware-security (1), ot-security (1), firmware-analysis (1), purple-team (1).
+
+Algumas skills incluidas ainda descrevem tecnicas de ataque (simulacao de phishing, ferramenta de exploracao, teste ofensivo de modelo). Uso somente autorizado: sistema seu ou com permissao escrita. Leia SECURITY.md nesta pasta. E o arquivo original, sem alteracao.
+
+The lines in this NOTICE were written for the skills-seguranca-ia collection by Filippe Revigat. They are not part of the upstream project. Our added text is under the MIT license at the root of this collection. Every other file in this folder keeps the upstream license.

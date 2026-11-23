@@ -1,0 +1,22 @@
+NOTICE
+
+This folder is an unmodified copy of ctf-skills.
+Author: Lukasz Jagiello
+Upstream: https://github.com/ljagiello/ctf-skills
+Commit: 20d182d9377f0467830f314bb0f843cae4dbf55e
+License: MIT. The license text is the LICENSE file in this folder and was not changed.
+
+Este diretorio e uma copia sem modificacao do ctf-skills.
+Autor: Lukasz Jagiello
+Origem: https://github.com/ljagiello/ctf-skills
+Commit: 20d182d9377f0467830f314bb0f843cae4dbf55e
+Licenca: MIT. O texto da licenca e o arquivo LICENSE desta pasta e nao foi alterado.
+
+Authorized use only. These skills describe offensive techniques for CTF labs, competitions, and systems you own or have written permission to test. Do not run scripts/install_ctf_tools.sh until you have read the whole file. It installs many tools.
+Uso somente autorizado. Estas skills descrevem tecnicas ofensivas para laboratorio de CTF, competicao, e sistemas seus ou com permissao escrita. Nao rode scripts/install_ctf_tools.sh antes de ler o arquivo inteiro. Ele instala muitas ferramentas.
+
+One substitution, and only this one, was made after the copy: a fake GitHub token string in tests/test_skill_security_auditor.py was replaced with `ghp_example`. GitHub push protection rejects a full-length ghp_ string even in a test. The license file was not changed. The unmodified file is at the upstream commit above.
+
+Uma substituicao, e so esta, foi feita depois da copia: uma string falsa de token do GitHub em tests/test_skill_security_auditor.py foi trocada por `ghp_example`. A protecao de push do GitHub recusa uma string ghp_ de tamanho completo, mesmo em teste. O arquivo de licenca nao foi alterado. O arquivo sem essa troca esta no commit de origem acima.
+
+The lines in this NOTICE were written for the skills-seguranca-ia collection by Filippe Revigat. They are not part of the upstream project. Our added text is under the MIT license at the root of this collection. Every other file in this folder keeps the upstream license, except the placeholder substitution described above.
